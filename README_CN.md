@@ -1,6 +1,6 @@
 <h1 align="center">🎨 Pixelle MCP - 全模态融合智能体框架</h1>
 
-<p align="center"><a href="README.md">English</a> | <b>中文</b></p>
+<p align="center"><a href="README.md">English</a> | <b>中文</b> | <a href="README.vi.md">Tieng Viet</a></p>
 
 <p align="center">✨ 基于 MCP 协议的 AIGC 方案，支持本地ComfyUI和云端ComfyUI(RunningHub)双模式，0代码将工作流转化为 MCP Tool。</p>
 
