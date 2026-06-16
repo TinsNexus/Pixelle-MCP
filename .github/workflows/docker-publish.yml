@@ -14,7 +14,7 @@ on:
         default: 'latest'
 
 env:
-  DOCKER_IMAGE: tinnt-truman/pixelle-mcp
+  DOCKER_IMAGE: ${{ secrets.DOCKERHUB_USERNAME }}/pixelle-mcp
 
 jobs:
   build-and-push:
